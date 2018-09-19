@@ -25,11 +25,11 @@
 				</div>
 				<div class="form-group">
 					<label>Meta Tags</label>
-					<input type="text" class="form-control" placeholder="Add Some Tags..."></input>
+					<input type="text" class="form-control" placeholder="Add Some Tags...">
 				</div>
 				<div class="form-group">
 					<label>Meta Description</label>
-					<input type="text" class="form-control" placeholder="Add Meta Description..."></input>
+					<input type="text" class="form-control" placeholder="Add Meta Description...">
 				</div>
 			</div>
 			<div class="modal-footer">
