@@ -12,7 +12,7 @@
 			<div class="modal-body">
 				<div class="form-group">
 					<label>Page Title</label>
-					<input type="text" class="form-control" placeholder="Page Title"></input>
+					<input type="text" class="form-control" placeholder="Page Title">
 				</div>
 				<div class="form-group">
 					<label>Page Body</label>
