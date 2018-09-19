@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2018 Brxndan, bradtraversy
+Copyright (c) 2018 [Brxndan](https://github.com/Brxndan), [Brad Traversy](https://github.com/bradtraversy)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
