@@ -1,6 +1,6 @@
 ![AdminStrap](https://i.imgur.com/oMBkVEg.png)
 ---
-This Bootstrap Admin Panel was edited from the one [Brad Traversy](https://github.com/bradtraversy) did on one of his older YouTube Video link at bottom.
+This Bootstrap Admin Panel was edited from the one [Brad Traversy](https://github.com/bradtraversy) did on one of his older YouTube Videos, link at bottom.
 > I followed along with the video and edited it afterwards, yes there's a download link to all the code already however I thought it would be easier to follow along with it and correct any mistakes if any.
 
 # Getting Started
