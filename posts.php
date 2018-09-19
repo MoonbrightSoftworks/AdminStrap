@@ -16,7 +16,7 @@
       <div class="container">
         <div class="row">
           <div class="col-md-10">
-            <h1><span class="glyphicon glyphicon-cog" aria-hidden="true"></span> Pages <small>Manage Blog Posts</small></h1>
+            <h1><span class="glyphicon glyphicon-cog" aria-hidden="true"></span> Posts <small>Manage Blog Posts</small></h1>
           </div>
 
           <!-- Header Start -->
