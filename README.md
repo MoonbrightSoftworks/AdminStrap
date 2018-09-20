@@ -18,7 +18,7 @@ These instructions will tell you how to download the files and upload them to a 
 - [Bootstrap](https://getbootstrap.com/docs/3.3/) - The Framework used to develop AdminStrap.
 
 ## Authors
-- [Brxndan](https://github.com/Brxndan) - Edited Code - Moonbright Softworks
+- [Brxndan](https://github.com/Brxndan) - Edited Code - [Moonbright Softworks](https://github.com/MoonbrightSoftworks)
 - [Brad Traversy](https://github.com/bradtraversy) - Initial Work - [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
 
 ## License
